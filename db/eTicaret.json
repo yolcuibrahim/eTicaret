@@ -1,0 +1,407 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Asus",
+      "price": "25.000",
+      "categoryId": 1,
+      "description": "Zenbook Pro 14",
+      "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asus/thumb/140362-3_large.jpg"
+    },
+    {
+      "id": 2,
+      "name": "A4 Tech",
+      "price": "250",
+      "categoryId": 3,
+      "description": "XL-750BH",
+      "imageUrl": "https://cdn.cimri.io/image/280x280/a4-tech-xl-750bh-bronz-kablolu-lazer-fare_133506916.jpg"
+    },
+    {
+      "name": "Apple",
+      "description": "Iphone 14pro",
+      "imageUrl": "https://st-troy.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/mq323tua-apple-iphone-14-pro-1tb-derin-mor-mq323tua-637987568976469929.jpg",
+      "price": "100.000",
+      "categoryId": "2",
+      "id": 3
+    },
+    {
+      "name": "Logitech",
+      "description": "LightSync",
+      "imageUrl": "https://cdn.akakce.com/logitech/logitech-g203-lightsync-siyah-910-005796-kablolu-oyuncu-z.jpg",
+      "price": "596",
+      "categoryId": "3",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Huawei",
+      "price": "17.499",
+      "categoryId": 1,
+      "description": "Matebook D15",
+      "imageUrl": "https://cdn.cimri.io/image/280x280/huawei-matebook-d-15-2022-i5-1155g7-8gb-ram-256gb-ssd-windows-11-home-156-inc-mistik-gumus-laptop-notebook_842235503.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Apple",
+      "price": "34.999",
+      "categoryId": 1,
+      "description": "MacBook Air M1",
+      "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/114754-1-2_large.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Asus",
+      "price": "17.499",
+      "categoryId": 1,
+      "description": "X515EA",
+      "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asus/thumb/138171-1_large.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Lenovo",
+      "price": "18.999",
+      "categoryId": 1,
+      "description": "IP Slim3",
+      "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lenovo/thumb/141330-1_large.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Xiaomi",
+      "price": "12.349",
+      "categoryId": 2,
+      "description": "Redmi Note 12 Pro",
+      "imageUrl": "https://productimages.hepsiburada.net/s/430/550/110000462400750.jpg/format:webp"
+    },
+    {
+      "id": 10,
+      "name": "Samsung",
+      "price": "10.549",
+      "categoryId": 2,
+      "description": "Galaxy M34",
+      "imageUrl": "https://productimages.hepsiburada.net/s/460/550/110000496903958.jpg/format:webp"
+    },
+    {
+      "id": 11,
+      "name": "Reeder",
+      "price": "2.749",
+      "categoryId": 2,
+      "description": "P13 Blue Max",
+      "imageUrl": "https://productimages.hepsiburada.net/s/202/550/110000175851325.jpg/format:webp"
+    },
+    {
+      "id": 12,
+      "name": "Samsung",
+      "price": "49.195",
+      "categoryId": 2,
+      "description": "Galaxy S23 Ultra",
+      "imageUrl": "https://productimages.hepsiburada.net/s/356/550/110000369658702.jpg/format:webp"
+    },
+    {
+      "id": 13,
+      "name": "Philips",
+      "price": "3.289",
+      "categoryId": 3,
+      "description": "HD2151 62",
+      "imageUrl": "https://cdn.cimri.io/image/280x280/philips-hd2151-62-all-in-one-cooker_829315561.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Sony",
+      "price": "22.794",
+      "categoryId": 3,
+      "description": "Playstation 5",
+      "imageUrl": "https://cdn.cimri.io/image/280x280/sony-playstation-5-oyun-konsolu_622618971.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Xiaomi",
+      "price": "1.343",
+      "categoryId": 3,
+      "description": "Mi TV Stick",
+      "imageUrl": "https://cdn.cimri.io/image/280x280/xiaomi-mi-tv-stick-1080p-android-tv-medya-oynatici_286983491.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Apple",
+      "price": "8.649",
+      "categoryId": 4,
+      "description": "Airpods",
+      "imageUrl": "https://i.dr.com.tr/cache/500x400-0/originals/0001998706001-1.jpg"
+    },
+    {
+      "id": 17,
+      "name": "JBL",
+      "price": "22.899",
+      "categoryId": 4,
+      "description": "Partybox",
+      "imageUrl": "https://i.dr.com.tr/cache/500x400-0/originals/0001896720001-1.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Apple",
+      "price": "22.999",
+      "categoryId": 4,
+      "description": "Airpods Max",
+      "imageUrl": "https://i.dr.com.tr/cache/500x400-0/originals/0001899782005-1.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Xiaomi",
+      "price": "299",
+      "categoryId": 4,
+      "description": "Mi Compact 2",
+      "imageUrl": "https://i.dr.com.tr/cache/500x400-0/originals/0001862962001-1.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Marshall",
+      "price": "19.999",
+      "categoryId": 4,
+      "description": "Woburn3",
+      "imageUrl": "https://i.dr.com.tr/cache/500x400-0/originals/0002036344001-1.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Samsung",
+      "price": "24.999",
+      "categoryId": 5,
+      "description": "138 Ekran Crystal 4K Ultra HD Smart LED TV",
+      "imageUrl": "https://productimages.hepsiburada.net/s/398/550/110000423026432.jpg/format:webp"
+    },
+    {
+      "id": 22,
+      "name": "TCL",
+      "price": "35.900",
+      "categoryId": 5,
+      "description": "139 Ekran Uydu Alıcılı 4K QLED TV",
+      "imageUrl": "https://productimages.hepsiburada.net/s/439/550/110000472718861.jpg/format:webp"
+    },
+    {
+      "id": 23,
+      "name": "Onvo",
+      "price": "11.446",
+      "categoryId": 5,
+      "description": "140 Ekran Uydu Alıcılı 4K Ultra HD webOS Smart LED TV",
+      "imageUrl": "https://productimages.hepsiburada.net/s/511/550/110000565880522.jpg/format:webp"
+    },
+    {
+      "id": 24,
+      "name": "Philips",
+      "price": "38.999",
+      "categoryId": 5,
+      "description": "165 Ekran Uydu Alıcılı 4K Ultra HD Smart LED TV",
+      "imageUrl": "https://productimages.hepsiburada.net/s/504/550/110000558607470.jpg/format:webp"
+    },
+    {
+      "id": 25,
+      "name": "Vestel",
+      "price": "26.193",
+      "categoryId": 5,
+      "description": "164 Ekran Uydu Alıcılı 4K Ultra HD Android Smart QLED TV",
+      "imageUrl": "https://productimages.hepsiburada.net/s/293/550/110000283187305.jpg/format:webp"
+    },
+    {
+      "id": 26,
+      "name": "Dijitsu",
+      "price": "6.199",
+      "categoryId": 6,
+      "description": "TMF Statik Buzdolabı",
+      "imageUrl": "https://productimages.hepsiburada.net/s/122/550/110000071538192.jpg/format:webp"
+    },
+    {
+      "id": 27,
+      "name": "Vestel",
+      "price": "19.018",
+      "categoryId": 6,
+      "description": "451 Lt No-Frost Buzdolabı",
+      "imageUrl": "https://productimages.hepsiburada.net/s/155/550/110000111986634.jpg/format:webp"
+    },
+    {
+      "id": 28,
+      "name": "Vestfrost",
+      "price": "19.499",
+      "categoryId": 6,
+      "description": "S 520 lt No-Frost Buzdolabı",
+      "imageUrl": "https://productimages.hepsiburada.net/s/39/550/10615856103474.jpg/format:webp"
+    },
+    {
+      "id": 29,
+      "name": "Vestel",
+      "price": "9.214",
+      "categoryId": 6,
+      "description": "Retro SB14301 Buzdolabı",
+      "imageUrl": "https://productimages.hepsiburada.net/s/367/550/110000383327527.jpg/format:webp"
+    },
+    {
+      "id": 30,
+      "name": "Grundig",
+      "price": "36.999",
+      "categoryId": 6,
+      "description": "GSND 6384 S A 580 lt Buzdolabı",
+      "imageUrl": "https://productimages.hepsiburada.net/s/70/550/110000011599931.jpg/format:webp"
+    },
+    {
+      "id": 31,
+      "name": "Kaira",
+      "price": "14.999",
+      "categoryId": 7,
+      "description": "DTXR35E 12000 BTU WiFi A++ Inverter Klima",
+      "imageUrl": "https://productimages.hepsiburada.net/s/103/550/110000046077136.jpg/format:webp"
+    },
+    {
+      "id": 32,
+      "name": "Vestel",
+      "price": "19.320",
+      "categoryId": 7,
+      "description": "Flora Doğa Inverter 122 12000 BTU Wifi Klima",
+      "imageUrl": "https://productimages.hepsiburada.net/s/472/550/110000513388766.jpg/format:webp"
+    },
+    {
+      "id": 33,
+      "name": "Arçelik",
+      "price": "19.687",
+      "categoryId": 7,
+      "description": "12325 A 12000 BTU A++ Inverter Klima",
+      "imageUrl": "https://productimages.hepsiburada.net/s/19/550/9847216078898.jpg/format:webp"
+    },
+    {
+      "id": 34,
+      "name": "Samsung",
+      "price": "22.566",
+      "categoryId": 7,
+      "description": "AR35 White AR12TXHQBWK A++ 12000 BTU Inverter Klima",
+      "imageUrl": "https://productimages.hepsiburada.net/s/39/550/10607475163186.jpg/format:webp"
+    },
+    {
+      "id": 35,
+      "name": "Baymak",
+      "price": "21.839",
+      "categoryId": 7,
+      "description": "Elegant Prime 12 12000 BTU R32 Inverter Klima",
+      "imageUrl": "https://productimages.hepsiburada.net/s/28/550/10233005506610.jpg/format:webp"
+    },
+    {
+      "id": 36,
+      "name": "Canon",
+      "price": "14.650",
+      "categoryId": 8,
+      "description": "Eos 600D +",
+      "imageUrl": "https://productimages.hepsiburada.net/s/261/550/110000244613715.jpg/format:webp"
+    },
+    {
+      "id": 37,
+      "name": "Fujifilm",
+      "price": "48.099",
+      "categoryId": 8,
+      "description": "X-T5",
+      "imageUrl": "https://productimages.hepsiburada.net/s/314/550/110000307887062.jpg/format:webp"
+    },
+    {
+      "id": 38,
+      "name": "Sony",
+      "price": "24.999",
+      "categoryId": 8,
+      "description": "ZV-E10",
+      "imageUrl": "https://productimages.hepsiburada.net/s/127/550/110000077099592.jpg/format:webp"
+    },
+    {
+      "id": 39,
+      "name": "Nikon",
+      "price": "13.999",
+      "categoryId": 8,
+      "description": "D5100 18-55 VR",
+      "imageUrl": "https://productimages.hepsiburada.net/s/9/550/8891659845682.jpg/format:webp"
+    },
+    {
+      "id": 40,
+      "name": "Kodak",
+      "price": "3.490",
+      "categoryId": 8,
+      "description": "Mini Shot Combo 2/C210",
+      "imageUrl": "https://productimages.hepsiburada.net/s/42/550/10754242183218.jpg/format:webp"
+    },
+     {
+      "id": 41,
+      "name": "Epson",
+      "price": "5.299",
+      "categoryId": 9,
+      "description": "Ecotank L3252",
+      "imageUrl": "https://productimages.hepsiburada.net/s/483/550/110000528118188.jpg/format:webp"
+    },
+    {
+      "id": 42,
+      "name": "Pantum",
+      "price": "2.979",
+      "categoryId": 9,
+      "description": "P2500W",
+      "imageUrl": "https://productimages.hepsiburada.net/s/39/550/10607255289906.jpg/format:webp"
+    },
+    {
+      "id": 43,
+      "name": "HP",
+      "price": "10.250",
+      "categoryId": 9,
+      "description": "Color Laser MFP 178NW",
+      "imageUrl": "https://productimages.hepsiburada.net/s/118/550/110000067890795.jpg/format:webp"
+    },
+    {
+      "id": 44,
+      "name": "Canon",
+      "price": "4.049",
+      "categoryId": 9,
+      "description": "Pixma G3410",
+      "imageUrl": "https://productimages.hepsiburada.net/s/470/550/110000511640259.jpg/format:webp"
+    },
+    {
+      "id": 45,
+      "name": "Creality",
+      "price": "20.950",
+      "categoryId": 9,
+      "description": "K1 Yüksek Hızlı 3D Yazıcı",
+      "imageUrl": "https://productimages.hepsiburada.net/s/454/550/110000490051883.jpg/format:webp"
+    }
+
+
+   
+    
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "Telefon"
+    },
+    {
+      "id": 3,
+      "name": "Elektronik"
+    },
+    {
+      "id": 4,
+      "name": "Müzik"
+    },
+    {
+      "id": 5,
+      "name": "Televizyon"
+    },
+    {
+      "id": 6,
+      "name": "Buzdolabı"
+    },
+    {
+      "id": 7,
+      "name": "Klima"
+    },
+    {
+      "id": 8,
+      "name": "Fotoğraf Makinası"
+    },
+    {
+      "id": 9,
+      "name": "Yazıcı"
+    }
+    
+  ]
+}

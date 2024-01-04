@@ -1,0 +1,20 @@
+.card{
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.title{
+  margin-left: 30px;
+}
+
+.mb-3{
+  margin-left: 15px;
+}
+
+img{
+  height: 250px;
+  width: 230px;
+  object-fit: fill;
+  margin-top: 20px;
+  margin-left: 5px;
+}
